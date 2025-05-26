@@ -5,4 +5,7 @@ Pero, en resumen, en esta práctica trato de crear una Inteligencia Artificial q
 
 En la carpeta "Build Final" se encuentra un ejecutable del proyecto completamente terminado
 
+En el documento de Word "IAManager" está el código de la inteligencia artificial simplificado
+
 Y en el siguiente enlace, se encuentra un vídeo mostrando el resultado final:
+https://youtu.be/tTAmzPBVpXE
